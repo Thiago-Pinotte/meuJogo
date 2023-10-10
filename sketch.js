@@ -23,15 +23,15 @@ var bulletGroup, mau2Group;
 function preload(){
   bgImg = loadImage("assets/bg.avif");
   shooterImg = loadImage("assets/jack.png");
-  shooter_shooting = loadImage("assets/jack_2.png");
+  // shooter_shooting = loadImage("assets/jack_2.png");
   mauImg = loadImage("assets/mau.png")
   mau2Img = loadImage("assets/mau2.png");
   mau3Img = loadImage("assets/mau3.png");
   mau4Img = loadImage("assets/mau4.png");
-  petImg = loadImage("assets/pet.png");
-  pet2Img = loadImage("assets/pet2.png");
-  bossImg = loadImage("assets/boss.png");
-  boss2Img = loadImage("assets/boss2.png");
+  // petImg = loadImage("assets/pet.png");
+  // pet2Img = loadImage("assets/pet2.png");
+  // bossImg = loadImage("assets/boss.png");
+  // boss2Img = loadImage("assets/boss2.png");
   heart1Img = loadImage("assets/heart_1.png");
   heart2Img =loadImage("assets/heart_2.png");
   heart3Img = loadImage ("assets/heart_3.png")
